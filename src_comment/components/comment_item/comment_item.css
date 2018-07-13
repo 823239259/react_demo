@@ -1,8 +1,4 @@
-.reply {
-    margin-top: 0px;
-  }
-  
-  li {
+li {
     transition: .5s;
     overflow: hidden;
   }
